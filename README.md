@@ -1,5 +1,3 @@
-<img src="https://github.com/naim2802.png" width="150" alt="Md Nasir Khan Naim" align="right" />
-
 # 👋 Hi, I'm Md Nasir Khan Naim  
 
 🎓 3rd-year **CSE student at United International University (UIU)**  
