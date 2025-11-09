@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Nasir Khan Naim  
+# 👋 Hi, I'm Nasir Khan Naim  
 
 🎓 3rd-year **CSE student at United International University (UIU)**  
 💡 Passionate about **software development**, **databases**, and **competitive programming**  
