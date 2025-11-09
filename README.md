@@ -68,7 +68,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/YOUR-FB)  
-[![Portfolio](https://img.shields.io/badge/Neev-000?logo=vercel&logoColor=white)](https://YOUR-BRAND-LINK.com)
+[![Portfolio](https://img.shields.io/badge/Neev-000?logo=vercel&logoColor=white)].
 
 ---
 
